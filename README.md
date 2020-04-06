@@ -5,7 +5,7 @@ Case Study Problem explained here focuses on the following question
 
 1. The product manager wanted to know about unit sales and discounts by:
 
-    overall market;
-    marketing region;
-    customer loyalty; and
-    buyer rating.
+    1. overall market;
+    2. marketing region;
+    3. customer loyalty; and
+    4. buyer rating.
